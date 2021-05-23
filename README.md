@@ -15,4 +15,4 @@ As a result, my machine learning algorithm was a success.
 Credit goes to:
 
 The National Basketball Association for their statistics
-University of California at San Diego for their course on Edx.org called DSE200x where I learned to apply the machine learning method.
+University of California at San Diego for their course on Edx.org called DSE200x where I learned to apply the machine learning method. 
